@@ -1,9 +1,13 @@
+#include<iostream>
+
 #MERMAID
+
+using namespace std;
 
 int main(){
     int a;
     cout << "masukkan angka : ";
-    cin>> a;
+    cin >> a;
     cout << "nilai yang dimasukkan ";
 
     return 0;
