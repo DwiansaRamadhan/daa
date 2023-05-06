@@ -1,11 +1,9 @@
 #include<iostream>
 
-
 using namespace std;
 
 int main(){
-    char nama,nim;
-
+    string nama,nim;
     cout << "masukkan Nama : ";
     cin >> nama;
     cout << "nilai NIM ";
